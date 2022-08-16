@@ -1,4 +1,3 @@
-<div aling="center">
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/presentation.gif)
 
   <h1>Soy Jonathan, Full Stack Dev Web Jr</h1>
@@ -30,6 +29,7 @@
 
 <h2>My Projects:</h2>
 
+<p align="center">
 <a href="https://github.com/llsonyll/social_network" target="_blank">
   &nbsp
   <img aling="center" src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="180" height="180"/>
@@ -39,5 +39,6 @@
   <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628053/socialn_cpaowu.png" width="180" height="180"/>
   &nbsp
 </a>
-<a href="https://www.socialn.me" target="_blank"><p>Social Network</p></a>
-</div>
+</br>
+<a align="center" href="https://www.socialn.me" target="_blank">Social Network</a></div>
+</p>
