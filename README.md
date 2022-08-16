@@ -17,16 +17,9 @@
 
 ## 🛠 Skills:
 
-  * JavaScript
-  * TypeScript
-  * Node.js
-  * HTML5
-  * CSS
-  * MongoDB
-  * PostgreSQL
-  * React.js
+  JavaScript, TypeScript, Node.js, HTML5, CSS, MongoDB, PostgreSQL, React.js,Redux, PostgreSQL, Sequelize, Express     
 
-## My Projects:
+## 🚀 My Projects:
 
 <p align="center">
 <a href="https://github.com/llsonyll/social_network" target="_blank">
@@ -43,7 +36,7 @@
 
 ### [Social Network](https://www.socialn.me)
 
-🚀Red social para interactuar con otras personas a través de publicaciones, comentarios y reacciones, chats y videollamadas.
+Red social para interactuar con otras personas a través de publicaciones, comentarios y reacciones, chats y videollamadas.
 
 #### 🛠 Tecnologías usadas: 
 React, Redux Toolkit, Socket.io, Typescript, MongoDB, Mongoose, Node js, Express, Tailwind CSS, Passport, Json Web Token
