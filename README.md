@@ -31,8 +31,12 @@
 <h2>My Projects:</h2>
 
 <a href="https://github.com/llsonyll/social_network" target="_blank">
-  <img aling="center" src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="100" height="100"/>
-  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628052/Socialn2_zgrabw.png" width="100" height="100"/>
-  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628053/socialn_cpaowu.png" width="100" height="100"/>
+  &nbsp
+  <img aling="center" src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="300" height="300"/>
+  &nbsp
+  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628052/Socialn2_zgrabw.png" width="300" height="300"/>
+  &nbsp
+  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628053/socialn_cpaowu.png" width="300" height="300"/>
+  &nbsp
 </a>
 <a href="https://www.socialn.me" target="_blank"><p>Social Network</p></a>
