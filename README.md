@@ -39,5 +39,6 @@
   &nbsp
 </a>
 </br>
-<a align="center" href="https://www.socialn.me" target="_blank">Social Network</a></div>
 </p>
+
+### [Social Network](https://www.socialn.me)
