@@ -15,7 +15,7 @@
 </html>
 ```
 
-## 🛠 Lenguages and tools:
+## 🛠 Skills:
 
   * JavaScript
   * TypeScript
@@ -42,3 +42,11 @@
 </p>
 
 ### [Social Network](https://www.socialn.me)
+
+🚀Red social para interactuar con otras personas a través de publicaciones, comentarios y reacciones, chats y videollamadas.
+
+#### 🛠 Tecnologías usadas: 
+React, Redux Toolkit, Socket.io, Typescript, MongoDB, Mongoose, Node js, Express, Tailwind CSS, Passport, Json Web Token
+
+#### 👨‍💻Mi principal aporte fue:
+Planificación de estrategias para logueo y autenticación de usuarios utilizando tecnologías como Passport y JWT, Configuración protocolo HTTPS, certificado SSL y dominio, Deploy BackEnd Heroku.
