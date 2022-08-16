@@ -16,7 +16,7 @@
 </html>
 ```
 
-<h2>Lenguages and tools:</h2>
+<h2> 🛠 Lenguages and tools:</h2>
 <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>
@@ -30,6 +30,7 @@
 
 <h2>My Projects:</h2>
 
+[![Social Network](https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png)](https://github.com/llsonyll/social_network)
 <a href="https://github.com/llsonyll/social_network" target="_blank">
   <img aling="center" src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="100" height="100"/>
 </a>
