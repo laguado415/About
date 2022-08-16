@@ -30,7 +30,7 @@
 
 <h2>My Projects:</h2>
 <div>
-  <a src="https://github.com/llsonyll/social_network" target="_blank"><img src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="300" height="100"/></a>
+  <a href="https://github.com/llsonyll/social_network" target="_blank"><img src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="300" height="100"/></a>
   <hr>
   <a href="https://www.socialn.me" target="_blank">Social Network</a>
 </div>
