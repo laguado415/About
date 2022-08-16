@@ -30,11 +30,7 @@
 
 <h2>My Projects:</h2>
 
-| Plugin | README |
-| ------ | ------ |
-| <a href="https://github.com/llsonyll/social_network" target="_blank"><img src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="100" height="100"/></a>| <a href="https://www.socialn.me" target="_blank">Social Network</a> |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+<a href="https://github.com/llsonyll/social_network" target="_blank">
+  <img aling="center" src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="100" height="100"/>
+</a>
+<a href="https://www.socialn.me" target="_blank"><p>Social Network</p></a>
