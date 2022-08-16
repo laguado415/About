@@ -1,5 +1,5 @@
+<div aling="center">
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/presentation.gif)
-
 
   <h1>Soy Jonathan, Full Stack Dev Web Jr</h1>
   
@@ -40,3 +40,4 @@
   &nbsp
 </a>
 <a href="https://www.socialn.me" target="_blank"><p>Social Network</p></a>
+</div>
