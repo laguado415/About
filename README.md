@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/presentation.gif)
 
-  <h1>Soy Jonathan, Full Stack Dev Web Jr</h1>
+# Soy Jonathan, Full Stack Dev Web Jr
   
-  ```html
+  ```html-
 <!DOCTYPE html>
 <html>
     <head>
@@ -15,19 +15,18 @@
 </html>
 ```
 
-<h2> 🛠 Lenguages and tools:</h2>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>Node.js</li>
-  <li>HTML5</li>
-  <li>CSS</li>
-  <li>MongoDB</li>
-  <li>PostgreSQL</li>
-  <li>React.js</li>
-</ul>
+## 🛠 Lenguages and tools:
 
-<h2>My Projects:</h2>
+  * JavaScript
+  * TypeScript
+  * Node.js
+  * HTML5
+  * CSS
+  * MongoDB
+  * PostgreSQL
+  * React.js
+
+## My Projects:
 
 <p align="center">
 <a href="https://github.com/llsonyll/social_network" target="_blank">
