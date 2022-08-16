@@ -15,3 +15,15 @@
     </body>
 </html>
 ```
+
+<h2>Lenguages and tools</h2>
+<ol>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Node.js</li>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>MongoDB</li>
+  <li>PostgreSQL</li>
+  <li>React.js</li>
+</ol>
