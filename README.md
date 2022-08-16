@@ -29,8 +29,12 @@
 </ul>
 
 <h2>My Projects:</h2>
-<div>
-  <a href="https://github.com/llsonyll/social_network" target="_blank"><img src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="150" height="150"/></a>
-  <hr>
-  <a href="https://www.socialn.me" target="_blank">Social Network</a>
-</div>
+
+| Plugin | README |
+| ------ | ------ |
+| <a href="https://github.com/llsonyll/social_network" target="_blank"><img src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="100" height="100"/></a>| <a href="https://www.socialn.me" target="_blank">Social Network</a> |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
