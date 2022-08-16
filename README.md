@@ -30,6 +30,6 @@
 
 <h2>My Projects:</h2>
 <div>
-  <a><img src=""/></a>
-  <label>Social Network</label>
+  <a href="https://github.com/llsonyll/social_network"><img src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png"/></a>
+  <a href="https://www.socialn.me" >Social Network</a>
 </div>
