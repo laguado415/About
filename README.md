@@ -1,6 +1,9 @@
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/Bienvenido.gif)
 
-# Soy Jonathan, Full Stack Dev Web Jr
+# Soy Jonathan, Full Stack Dev Web Jr👨‍💻
+
+## ⚡ About:
+ Full Stack Dev Jr de nacionanalidad Colombiana apasionado programacion👨‍💻 y asumir nuevos retos.
   
   ```html-
 <!DOCTYPE html>
