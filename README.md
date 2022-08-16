@@ -29,8 +29,8 @@
 </ul>
 
 <h2>My Projects:</h2>
-<p style="width:100;height:100">
+<div>
   <a><img src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="300" height="100"/></a>
   <hr>
-  ><a href="https://www.socialn.me" target="_self">Social Network</a>
-</p>
+  <a href="https://www.socialn.me" target="_self">Social Network</a>
+</div>
