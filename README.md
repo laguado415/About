@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/presentation.gif)
+![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/Bienvenido.gif)
 
 # Soy Jonathan, Full Stack Dev Web Jr
   
