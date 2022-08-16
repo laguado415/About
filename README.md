@@ -16,7 +16,7 @@
 </html>
 ```
 
-<h2>Lenguages and tools</h2>
+<h2>Lenguages and tools:</h2>
 <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>
@@ -27,3 +27,9 @@
   <li>PostgreSQL</li>
   <li>React.js</li>
 </ul>
+
+<h2>My Projects:</h2>
+<div>
+  <a><img src=""/></a>
+  <label>Social Network</label>
+</div>
