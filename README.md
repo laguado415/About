@@ -1,9 +1,7 @@
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/Bienvenido.gif)
 
-# Soy Jonathan, Full Stack Dev Web Jr👨‍💻
 
-## ⚡ About:
- Full Stack Dev Jr de nacionanalidad Colombiana apasionado programacion👨‍💻 y asumir nuevos retos.
+ Hola mi nombre es jonathan tengo 23 años y actualmente me desempeño como Full Stack Developer Jr, me encanta codear y enfrentar nuevos desafios.
   
 ## 🛠 Skills:
  
