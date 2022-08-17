@@ -2,7 +2,7 @@
 
 ## Hola 👋
 
- Mi nombre es jonathan tengo 23 años y actualmente me desempeño como Full Stack Developer, me encanta codear y enfrentar nuevos desafios.
+ Mi nombre es jonathan tengo 23 años y actualmente me desempeño como Full Stack Developer, me encanta codear y enfrentar nuevos desafios
   
 ## 🛠 Skills:
  
