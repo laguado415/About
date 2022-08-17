@@ -1,10 +1,5 @@
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/Bienvenido.gif)
 
-# Soy Jonathan, Full Stack Dev Web Jr👨‍💻
-
-## ⚡ About:
- Full Stack Dev Jr de nacionanalidad Colombiana apasionado programacion👨‍💻 y asumir nuevos retos.
-  
   ```html-
 <!DOCTYPE html>
 <html>
@@ -18,6 +13,11 @@
 </html>
 ```
 
+# Soy Jonathan, Full Stack Dev Web Jr👨‍💻
+
+## ⚡ About:
+ Full Stack Dev Jr de nacionanalidad Colombiana apasionado programacion👨‍💻 y asumir nuevos retos.
+  
 ## 🛠 Skills:
  
 <div align="center">
@@ -39,18 +39,18 @@
  <br>
  <br>
  <div>
-       ♣️ JavaScript
-       ♣️ TypeScript
-       ♣️ Node.js
-       ♣️ HTML
-       ♣️ CSS
-       ♣️ MongoDB<br>
-       ♣️ PostgreSQL
-       ♣️ React.js
-       ♣️ Redux
-       ♣️ PostgreSQL
-       ♣️ Sequelize
-       ♣️ Express
+       🔹JavaScript
+       🔹React.js
+       🔹Node.js
+       🔹Redux
+       🔹Sequelize
+       🔹Express<br>
+       🔹PostgreSQL
+       🔹MongoDB
+       🔹CSS
+       🔹HTML
+       🔹Git
+       🔹TypeScript
   </div> 
  
 </div>
