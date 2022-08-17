@@ -54,14 +54,15 @@
 
 Red social para interactuar con otras personas a través de publicaciones, comentarios y reacciones, chats y videollamadas.
 
-#### 🛠 Tecnologías usadas: 
-                                                                                                                                                                     <div align="center">
-                                                                                                                                                                     
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="52" alt="javascript logo"  />
+#### 🛠 Tecnologías usadas:  
+                                                                                                                                            
+<div align="center">
+   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="52" alt="javascript logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="52" alt="react logo"  /> 
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="52" alt="nodejs logo"  />
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="50" width="52" alt="redux logo"  />
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="50" width="52" alt="sequelize logo"  />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="52" alt="tailwind CSS logo"  />
+  <img  src="https://raw.githubusercontent.com/laguado415/laguado415/c1d6d27af91f7b38743c6fc2ff246c067137f563/assets/images/jwt-3.svg" height="55" width="80" alt="JWT logo"  />
   <img  src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" height="55" width="80" alt="express logo"  />
    <br>
    <br> 
@@ -89,10 +90,10 @@ Red social para interactuar con otras personas a través de publicaciones, comen
        🔹Git
        🔹TypeScript
   </div> 
+ </div>
  
-</div>
-  
 #### 👨‍💻Mi principal aporte fue:
+
 Planificación de estrategias para logueo y autenticación de usuarios utilizando tecnologías como Passport y JWT, Configuración protocolo HTTPS, certificado SSL y dominio, Deploy BackEnd Heroku, Implementacion de multiples rutas de backend. 
                                                                                                                                             
 ## 📭 Contact me:
