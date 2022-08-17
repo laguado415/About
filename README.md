@@ -21,6 +21,7 @@
 ## 🛠 Skills:
  
 <div align="center">
+ 
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="52" alt="javascript logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="52" alt="react logo"  /> 
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="52" alt="nodejs logo"  />
@@ -35,11 +36,12 @@
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" height="40" width="52" alt="TypeScript logo"  />
+ <br>
+ <br>
+ <div>
+     * JavaScript  * TypeScript * Node.js * HTML * CSS * MongoDB * PostgreSQL React.js <br> 🔹 Redux <br>                      🔹 PostgreSQL <br> 🔹 Sequelize <br> 🔹 Express 
+  </div> 
  
-  <p align="left">
-     🔹 JavaScript <br> 🔹 TypeScript <br> 🔹 Node.js <br>🔹 HTML5 <br> 🔹 CSS <br> 🔹 MongoDB <br> 🔹 PostgreSQL <br> 🔹 React.js <br> 🔹 Redux <br>                      🔹 PostgreSQL <br> 🔹 Sequelize <br> 🔹 Express 
-  </p>    
-
 </div>
   
 ## 🚀 My Projects:
