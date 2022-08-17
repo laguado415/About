@@ -1,18 +1,5 @@
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/Bienvenido.gif)
 
-  ```html-
-<!DOCTYPE html>
-<html>
-    <head>
-        <mate charest="utf-8" />
-        <title>Hello world!</title>
-    </head>
-    <body>
-        <h1>Hello world!</h1>
-    </body>
-</html>
-```
-
 # Soy Jonathan, Full Stack Dev Web Jr👨‍💻
 
 ## ⚡ About:
