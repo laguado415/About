@@ -67,6 +67,7 @@ Red social para interactuar con otras personas a través de publicaciones, comen
    <br>
    <br> 
   <img  src="https://raw.githubusercontent.com/laguado415/laguado415/e064c4cab97c85a11d7c535952b18ba9511d0fe3/assets/images/socket2.svg" height="40" width="52" alt="socket.io logo"  />
+  <img  src="https://raw.githubusercontent.com/laguado415/laguado415/1cd2486eb5621941af9e3fa9e0b7b05905e7447d/assets/images/passport.svg" height="40" width="52" alt="passport logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
