@@ -19,61 +19,29 @@
 ```
 
 ## 🛠 Skills:
-
+ 
 <div align="center">
- <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-   <p>JavaScrpt</p>
- </div>
- <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  /> 
-   <p>React</p>
- </div>
- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="52" alt="nodejs logo"  />
-   <p>NodeJs</p>  
- </div>
- <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="50" width="52" alt="redux logo"  />
-  <p>Redux</p>
- </div>
- <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="50" width="52" alt="sequelize logo"  />
-  <p>Sequelize</p>
- </div>
- <div align="center">
-  <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" height="55" width="80" alt="express logo"  />
-  <p>Express</p>
- </div>
- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <p>PostgreSQL</p>
- </div>
- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <p>MongoDB</p>  
- </div>
- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <p>CSS</p>
- </div>
- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <p>HTML</p>  
- </div>
- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-   <p>GIT</p> 
- </div>
- <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" height="40" width="52" alt="TypeScript logo"  />
-  <p>TypeScript</p>
- </div>
-  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="52" alt="javascript logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="52" alt="react logo"  /> 
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="52" alt="nodejs logo"  />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="50" width="52" alt="redux logo"  />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="50" width="52" alt="sequelize logo"  />
+  <img  src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" height="55" width="80" alt="express logo"  />
+   <br>
+   <br> 
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" height="40" width="52" alt="TypeScript logo"  />
+ 
+  <p align="left">
+     🔹 JavaScript <br> 🔹 TypeScript <br> 🔹 Node.js <br>🔹 HTML5 <br> 🔹 CSS <br> 🔹 MongoDB <br> 🔹 PostgreSQL <br> 🔹 React.js <br> 🔹 Redux <br>                      🔹 PostgreSQL <br> 🔹 Sequelize <br> 🔹 Express 
+  </p>    
+
 </div>
-
-  JavaScript, TypeScript, Node.js, HTML5, CSS, MongoDB, PostgreSQL, React.js,Redux, PostgreSQL, Sequelize, Express     
-
+  
 ## 🚀 My Projects:
 
 <p align="center">
