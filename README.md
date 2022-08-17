@@ -60,7 +60,7 @@ React, Redux Toolkit, Socket.io, Typescript, MongoDB, Mongoose, Node js, Express
 #### 👨‍💻Mi principal aporte fue:
 Planificación de estrategias para logueo y autenticación de usuarios utilizando tecnologías como Passport y JWT, Configuración protocolo HTTPS, certificado SSL y dominio, Deploy BackEnd Heroku.
                                                                                                                                             
-## Contact me:
+## 📭 Contact me:
                                                                                                                                             
 <div align="left">
   <a href="https://www.linkedin.com/in/jonathan-laguado" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
