@@ -60,11 +60,8 @@ React, Redux Toolkit, Socket.io, Typescript, MongoDB, Mongoose, Node js, Express
 #### 👨‍💻Mi principal aporte fue:
 Planificación de estrategias para logueo y autenticación de usuarios utilizando tecnologías como Passport y JWT, Configuración protocolo HTTPS, certificado SSL y dominio, Deploy BackEnd Heroku.
                                                                                                                                             
-##Contact me:
+## Contact me:
                                                                                                                                             
 <div align="left">
-  <a href="https://www.instagram.com/joshscp/" target="_blank">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
-  <a href="https://www.twitch.tv/nice_strk" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> </a>
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.linkedin.com/in/josep-jairo-rojas-baca-34975a1bb" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
+  <a href="www.linkedin.com/in/jonathan-laguado" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
 </div>
