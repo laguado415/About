@@ -39,7 +39,18 @@
  <br>
  <br>
  <div>
-     * JavaScript  * TypeScript * Node.js * HTML * CSS * MongoDB * PostgreSQL React.js <br> 🔹 Redux <br>                      🔹 PostgreSQL <br> 🔹 Sequelize <br> 🔹 Express 
+       ♣️ JavaScript
+       ♣️ TypeScript
+       ♣️ Node.js
+       ♣️ HTML
+       ♣️ CSS
+       ♣️ MongoDB<br>
+       ♣️ PostgreSQL
+       ♣️ React.js
+       ♣️ Redux
+       ♣️ PostgreSQL
+       ♣️ Sequelize
+       ♣️ Express
   </div> 
  
 </div>
