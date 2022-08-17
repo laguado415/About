@@ -108,7 +108,7 @@ Red social para interactuar con otras personas a través de publicaciones, comen
 
  ### [GameLab](https://github.com/laguado415/PI-Videogames-main)
  
- SPA de video games, cuenta con un apartado para ver informacion especifica de cada video game ( fecha lanzamiento, plataformas, etc ), en su home se encuentra un     apratado de busqueda, filtros, ordenamientos ( estas caracteristicas realizados desde el back me diante peticiones al servidor y a la base de datos ), cuenta con una paginacion simple dos botones para next o previus igualmente entre los dos un input para ingresar la pagina la cual desaeamos obtener, adicionalmente una seccion para agregar un nuevo video game en la cual podra ingrasasr informacion gracias sa un formulario totalmente validado en JavaScript.  
+SPA de videogames que cuenta con un apartado para ver información específica de cada videogame (fecha de lanzamiento, plataformas, etc.). En su home se encuentra un apartado de búsqueda, filtros, ordenamientos (realizados desde el backend mediante peticiones al servidor y a la base de datos), cuenta con una paginación simple con dos botones para “next” o “previous”, también se incluye entre estos un input para ingresar la página a la cual deseamos ir. Adicionalmente cuenta con una sección para agregar un nuevo videogame en la cual podrá ingresar información gracias a un formulario totalmente validado con JavaScript. 
  
  #### 🛠 Tecnologías usadas:  
                                                                                                                                             
