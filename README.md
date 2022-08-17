@@ -107,6 +107,38 @@ Red social para interactuar con otras personas a través de publicaciones, comen
 <p>  
 
  ### [GameLab](https://github.com/laguado415/PI-Videogames-main)
+ 
+ SPA de video games, cuenta con un apartado para ver informacion especifica de cada video game ( fecha lanzamiento, plataformas, etc ), en su home se encuentra un     apratado de busqueda, filtros, ordenamientos ( estas caracteristicas realizados desde el back me diante peticiones al servidor y a la base de datos ), cuenta con una paginacion simple dos botones para next o previus igualmente entre los dos un input para ingresar la pagina la cual desaeamos obtener, adicionalmente una seccion para agregar un nuevo video game en la cual podra ingrasasr informacion gracias sa un formulario totalmente validado en JavaScript.  
+ 
+ #### 🛠 Tecnologías usadas:  
+                                                                                                                                            
+<div align="center">
+   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="52" alt="javascript logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="52" alt="react logo"  /> 
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="52" alt="nodejs logo"  />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="50" width="52" alt="redux logo"  />
+  <img  src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" height="55" width="80" alt="express logo"  />
+   <br>
+   <br> 
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo"  />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="50" width="52" alt="sequelize logo"  />
+ <br>
+ <br>
+ <div>
+       🔹JavaScript
+       🔹React.js
+       🔹Node.js
+       🔹Redux 
+       🔹Express<br>
+       🔹CSS
+       🔹HTML
+       🔹PostgreSQL
+       🔹Sequelize
+  </div> 
+ </div>
+ 
                                                                                                                                
 ## 📭 Contact me:
                                                                                                                                             
