@@ -1,7 +1,8 @@
 ![](https://raw.githubusercontent.com/laguado415/About/main/assets/images/Bienvenido.gif)
 
+## Hola 👋
 
- Hola mi nombre es jonathan tengo 23 años y actualmente me desempeño como Full Stack Developer Jr, me encanta codear y enfrentar nuevos desafios.
+ Mi nombre es jonathan tengo 23 años y actualmente me desempeño como Full Stack Developer Jr, me encanta codear y enfrentar nuevos desafios.
   
 ## 🛠 Skills:
  
@@ -44,13 +45,7 @@
 
 <p align="center">
 <a href="https://github.com/llsonyll/social_network" target="_blank">
-  &nbsp
-  <img aling="center" src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="180" height="180"/>
-  &nbsp
-  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628052/Socialn2_zgrabw.png" width="180" height="180"/>
-  &nbsp
-  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628053/socialn_cpaowu.png" width="180" height="180"/>
-  &nbsp
+  <img aling="center" border= 15px; height="360" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png""/>
 </a>
 </br>
 </p>
