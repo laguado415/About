@@ -62,11 +62,11 @@ Red social para interactuar con otras personas a través de publicaciones, comen
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="52" alt="nodejs logo"  />
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="50" width="52" alt="redux logo"  />
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="52" alt="tailwind CSS logo"  />
-  <img  src="https://raw.githubusercontent.com/laguado415/laguado415/c1d6d27af91f7b38743c6fc2ff246c067137f563/assets/images/jwt-3.svg" height="55" width="80" alt="JWT logo"  />
+  <img  src="https://raw.githubusercontent.com/laguado415/laguado415/c1d6d27af91f7b38743c6fc2ff246c067137f563/assets/images/jwt-3.svg" height="45" width="40" alt="JWT logo"  />
   <img  src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" height="55" width="80" alt="express logo"  />
    <br>
    <br> 
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img  src="https://raw.githubusercontent.com/laguado415/laguado415/e064c4cab97c85a11d7c535952b18ba9511d0fe3/assets/images/socket2.svg" height="40" width="52" alt="socket.io logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
