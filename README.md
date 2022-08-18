@@ -106,7 +106,7 @@ Red social para interactuar con otras personas a través de publicaciones, comen
 <img  src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Group%20109.png" width="650" height="800"/>
 <p>  
 
- ### [GameLab](https://github.com/laguado415/PI-Videogames-main)
+ ### [GameLab](https://labgamepi.vercel.app)
  
 SPA de videogames que cuenta con un apartado para ver información específica de cada videogame (fecha de lanzamiento, plataformas, etc.). En su home se encuentra un apartado de búsqueda, filtros, ordenamientos (realizados desde el backend mediante peticiones al servidor y a la base de datos), una barra de navegacion la cual esta ra fija haciendo esto una experiencia mas comoda para los usuarios que visiten la pagina, cuenta con una paginación simple con dos botones para “next” o “previous”, también se incluye entre estos un input para ingresar la página a la cual deseamos ir. Adicionalmente cuenta con una sección para agregar un nuevo videogame en la cual podrá ingresar información gracias a un formulario totalmente validado con JavaScript. 
  
