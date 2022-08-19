@@ -143,6 +143,9 @@ SPA de videogames que cuenta con un apartado para ver información específica d
 ## 📭 Contact me:
                                                                                                                                             
 <div align="left">
+   &nbsp
+   &nbsp
   <a href="https://www.linkedin.com/in/jonathan-laguado" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
+  &nbsp
 <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=jonathanlaguado.developer@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ee4437&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
 </div>
